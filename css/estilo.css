@@ -1,0 +1,76 @@
+body{
+  /* background-image: url(../img/juan.jpeg); */
+  background-size: 35%;
+  background-attachment: fixed;
+  font-family: arial;
+  font-size: 15px;
+}
+
+
+nav{
+  background-color: rgb(41, 119, 223);
+  color: white;
+  padding: 10px;
+  font-size: 20px;
+
+}
+
+header{
+   height: 300px;
+   color: white;
+}
+
+aside{
+  background-color: rgb(41, 119, 223);
+  color: white;
+  padding: 10px;
+}
+
+aside div div img{
+  border-radius: 15px;
+  
+}
+
+aside div div p{
+  color: #fcf8f8;
+  font-size: 14px;
+  text-align: justify;
+  margin-top: 20px;
+}
+
+section{
+  background-color: white;
+  padding: 10px;
+}
+
+footer{
+  background-color:  rgb(41, 119, 223); 
+  color: white;
+  padding: 10px;
+
+}
+
+nav div div img{
+  border-radius: 100px;
+  
+}
+aside div div h3{
+  font-size: 20px; 
+}
+p strong{
+  font-size: 30px;
+  color: rgb(41, 119, 223); 
+}
+p button{
+  color: darkgoldenrod;
+}
+section p{
+  color: rgb(41, 119, 223);
+  font-size: 18px;  
+}
+p a{
+  color: orangered
+}
+footer p{
+  font-size: 25px;  
+}
